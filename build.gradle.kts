@@ -29,7 +29,7 @@ toolkitLoomHelper {
         }
     }
 
-    useDevAuth("1.2.1")
+//    useDevAuth("1.2.1")
     useMixinExtras("0.4.1")
 
     // Turns off the server-side run configs, as we're building a client-sided mod.
