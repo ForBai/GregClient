@@ -1,5 +1,5 @@
 plugins {
-    id("dev.deftu.gradle.multiversion-root")
+    id("dev.deftu.gradle.multiversion-root") version("2.34.0")
 }
 
 preprocess {
